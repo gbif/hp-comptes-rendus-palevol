@@ -2,8 +2,8 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/rocks.png
-imageLicense: Reconstruction of the Angeac-Charente landscape, 140 Million years ago. Drawing by Mazan, 2017.
+background: /assets/images/placeholders/bahariya.jpg
+imageLicense: Reconstruction of the palaeoecosystem of the Upper Cretaceous (Cenomanian) Bahariya Formation of the Bahariya Oasis (Egypt). Artwork by Andrew McAfee (CC BY 4.0).
 height: 70vh
 ---
 [Comptes Rendus Palevol](https://sciencepress.mnhn.fr/en/periodiques/comptes-rendus-palevol) is a fully refereed, international, electronic open access journal in palaeontology, prehistory and evolutionary sciences, covering subjects such as systematic and human palaeontology, prehistory, evolutionary biology and macroevolution, and history of sciences.
