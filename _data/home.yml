@@ -1,4 +1,4 @@
-tats:
+stats:
   features:
     - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?publishing_org=091ce7dd-c13c-4aa0-946e-df8ad22b627a&limit=0">9,000,000</span>
       description: Occurrences
