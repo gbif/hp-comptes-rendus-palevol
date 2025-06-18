@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Comptes Rendus Palevol
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/collections.png
+background: /assets/images/placeholders/bahariya.jpg
 imageLicense:
 height: 90vh
 cta:
