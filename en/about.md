@@ -6,13 +6,17 @@ background: /assets/images/placeholders/rocks.png
 imageLicense: Reconstruction of the Angeac-Charente landscape, 140 Million years ago. Drawing by Mazan, 2017.
 height: 70vh
 ---
-[Comptes Rendus Palevol](https://sciencepress.mnhn.fr/en/periodiques/comptes-rendus-palevol) is a fully refereed, international, electronic open access journal covering subjects such as systematic and human palaeontology, prehistory, evolutionary biology and macroevolution, and history of sciences.
+[Comptes Rendus Palevol](https://sciencepress.mnhn.fr/en/periodiques/comptes-rendus-palevol) is a fully refereed, international, electronic open access journal in palaeontology, prehistory and evolutionary sciences, covering subjects such as systematic and human palaeontology, prehistory, evolutionary biology and macroevolution, and history of sciences.
 
-It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
+It provides immediate free open access to its content, under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
 ### Journal history
 
-Comptes Rendus Palevol continues as from 2002 the [Comptes Rendus de l'Académie des sciences – Série IIA – Sciences de la Terre et des planètes](https://www.sciencedirect.com/journal/comptes-rendus-de-lacademie-des-sciences-series-iia-earth-and-planetary-science) (1981-2001). From 2020, Comptes Rendus Palevol is co-published online only with a continuous flow of publication (fast-track) by the French Academy of Sciences and the French National Museum of Natural History.
+Comptes Rendus Palevol continues as from 2002 the [Comptes Rendus de l'Académie des sciences – Série IIA – Sciences de la Terre et des planètes](https://www.sciencedirect.com/journal/comptes-rendus-de-lacademie-des-sciences-series-iia-earth-and-planetary-science) (1981-2001).
+
+In 2020, a partnership agreement is reached between the Académie des sciences and the Muséum national d’Histoire naturelle, for co-editing Comptes Rendus Palevol.
+
+Since then, Comptes Rendus Palevol is published online only with a continuous flow of publication (fast-track).
 
 ### Journal data
 
