@@ -3,8 +3,8 @@ lang-ref: home
 layout: home
 title: Comptes Rendus Palevol
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/bahariya.jpg
-imageLicense: Reconstruction of the palaeoecosystem of the Upper Cretaceous (Cenomanian) Bahariya Formation of the Bahariya Oasis (Egypt). Artwork by Andrew McAfee (CC BY 4.0).
+background: /assets/images/placeholders/scansoriopterygid.jpg
+imageLicense: Restoration of the membrane-winged scansoriopterygid _Yi qi_. Credits Emily Willoughby (CC BY 4.0).
 height: 90vh
 cta:
   - text: Material citations
